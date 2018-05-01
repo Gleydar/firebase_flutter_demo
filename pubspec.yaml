@@ -1,0 +1,15 @@
+name: firebase_flutter_demo
+description: Firebase with Flutter Demo
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.0
+  firebase_messaging: ^0.2.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
